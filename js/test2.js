@@ -1,1 +1,1 @@
-alert ("test2-master");
+alert ("test2-cnrs");
